@@ -14,8 +14,6 @@ body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; }
 .doing-title { color: #ff8b00; }
 .done-title  { color: #00875a; }
 
-.task-list { min-height: 60px; }
-
 .task-card {
   background: #fff;
   border-radius: 8px;
